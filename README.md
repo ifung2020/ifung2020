@@ -1,16 +1,36 @@
-## Hi there 👋
+# # 👋 Hi, I'm ifung2020
 
-<!--
-**ifung2020/ifung2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Privacy-Focused Full Stack Developer
+I build secure, high-performance web applications that put user data first. My philosophy is "Privacy by Design," leveraging client-side processing to minimize server footprint.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Arsenal
+
+**Languages & Frameworks**
+- **Core**: JavaScript (ES6+), HTML5, CSS3 (Modern UI/UX)
+- **Frameworks**: React, Next.js, Vite
+
+**Tools & Technologies**
+- **Frontend Architecture**: Client-side processing (HEIC, PDF, DOCX), Glassmorphism Design
+- **Tooling**: Git, NPM, GitHub Actions, Netlify/Vercel Deployment
+- **Performance**: Web Workers, Asset Optimization
+
+---
+
+### 🌟 Project Spotlight
+
+#### [ifungconvertor](https://github.com/ifung2020/ifungconvertor)
+A premium, browser-based suite for complex file conversions.
+- **Privacy First**: 100% on-device processing.
+- **Formats**: HEIC, PDF to Image, DOCX, and GIF generation.
+- **Stack**: Vanilla JS + Modern Processing Libraries.
+
+---
+
+### 📫 Connect with Me
+- **GitHub**: [ifung2020](https://github.com/ifung2020)
+- **Portfolio**: [Live Demo of my work](https://ifung2020.github.io/ifungconvertor/)
+
+---
+*"The best way to protect user data is to never have it in the first place."*
